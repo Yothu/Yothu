@@ -16,7 +16,7 @@
 - 📫 How to reach me 
 
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yothu)](https://github.com/Yothu/github-readme-stats)
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yothu&count_private=trueshow_icons=true)](https://github.com/Yothu/github-readme-stats)
 
 <!--
 **Yothu/Yothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
