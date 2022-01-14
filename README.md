@@ -2,7 +2,10 @@
 
 > ### Contact me!
 
-<a href="https://www.linkedin.com/in/d-vergaray/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"  width="24px" /></a>
+<a href="https://www.linkedin.com/in/d-vergaray/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"  width="24px" /></a> <a href="https://twitter.com/Daivhy"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png
+"  width="24px" /></a>
+
+
 
 > ### About me
 
