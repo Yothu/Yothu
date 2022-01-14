@@ -15,6 +15,9 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yothu)](https://github.com/Yothu/github-readme-stats)
+
 <!--
 **Yothu/Yothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
