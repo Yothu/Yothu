@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋, I'm David!
+
+> ### Contact me!
+
+<a href="https://www.google.com" style="height=20px; width="20px;">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png">
+</a>
+
+> ### About me
+
+- 👀 I’m interested in programming, networking, science, astronomy, rock music and learning new languages.
+- 🌱 I’m currently learning coding at Microverse using Javascript, 
+- 💞️ I’m looking to collaborate on ... Augmented Reality and Data Analysis.
+- 📫 How to reach me ... edsancho18@yahoo.es
 
 <!--
 **Yothu/Yothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
