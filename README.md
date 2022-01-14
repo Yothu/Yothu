@@ -12,8 +12,8 @@
 
 - 👀 I’m interested in programming, networking, science, astronomy, rock music and learning new languages.
 - 🌱 I’m currently learning coding at Microverse using Javascript, 
-- 💞️ I’m looking to collaborate on ... Augmented Reality and Data Analysis.
-- 📫 How to reach me ... edsancho18@yahoo.es
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me 
 
 <!--
 **Yothu/Yothu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
