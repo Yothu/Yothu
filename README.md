@@ -7,9 +7,9 @@
 > ### About me
 
 - 👀 I’m interested in programming, networking, science, astronomy, rock music and learning new languages.
-- 🌱 I’m currently learning coding at Microverse using JavaScript!
+- 🌱 I’m currently learning coding at Microverse using JavaScript, HTML and CSS!
 - ⚡ Fun fact: Walk with your shoulders is legal in other planets.
-- I am Open for Hire!
+- 💼 I am Open for Hire!
 
 > ### Skillset
 
