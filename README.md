@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm David!
 
+![](https://komarev.com/ghpvc/?username=Yothu&style=flat-square&color=brightgreen)
+
 > ### Contact me!
 
 <a href="https://www.linkedin.com/in/d-vergaray/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"  width="24px" /></a> <a href="https://twitter.com/Daivhy"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-1024.png" width="24px" /></a> <a href="https://www.facebook.com/david.vergaray/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" width="24px" /></a> <a href="mailto:david.vergaray.a@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" width="24px" /></a>
