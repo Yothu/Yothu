@@ -11,7 +11,6 @@
 - 👀 I’m interested in programming, networking, science, astronomy, rock music and learning new languages.
 - 🌱 I’m currently learning coding at Microverse using React, Redux, Ruby, Rails, JavaScript, HTML and CSS!
 - ⚡ Fun fact: Walk with your shoulders is legal in other planets.
-- 💼 I am Open for Hire!
 
 > ### Skillset
 
